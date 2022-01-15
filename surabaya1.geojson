@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "City": "surabaya", "Latitude": -7.269127, "Longitude": 112.754558 }, "geometry": { "type": "Point", "coordinates": [ 112.754558, -7.269127 ] } }
+]
+}
